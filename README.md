@@ -1,6 +1,6 @@
-# Aravinda Venkatesan
+# Aravinda V.
 
-I’m a Computer Science undergraduate at the University of South Florida. My interests are in AI/ML engineering, reasoning and verifier evaluation, robustness under distribution shift, and the systems needed to evaluate these methods carefully. I also work on spatial audio and airport-interaction prototypes.
+I’m a Computer Science undergraduate at the University of South Florida. My research interests include mathematical reasoning and verifier robustness, adversarial evaluation of learned representations, and generalization across environments. My current projects examine cross-airport transfer, room-impulse-response measurements, spatial audio interaction, and decision-support systems.
 
 ## Selected public work
 
@@ -17,4 +17,4 @@ These projects have been developed locally and are not currently published here:
 - **Cross-airport transfer:** temporally separated model evaluation and evidence checks for transfer across airports. Data-access boundaries and a separate backend dependency need attention before a public release.
 - **Quiet Cruise:** a spatial-audio interaction prototype with synthetic scenes, direct-sound HRTF playback, and a virtual cabin. Physical tracking and perceptual evaluation remain open.
 
-I’m also developing a direction for controlled mathematical-verifier evaluation: varying localized reasoning defects while tracking final-answer correctness separately. I’ll add an implementation and evaluation record when they are ready to inspect.
+My planned mathematical-verifier study tests sensitivity to localized errors in reasoning traces while tracking final-answer correctness separately. Representation-level and post-embedding evaluation are further research interests; completed experiments in these areas are not yet included here.
