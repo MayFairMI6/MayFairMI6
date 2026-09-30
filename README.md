@@ -6,8 +6,8 @@ I’m a Computer Science undergraduate at the University of South Florida. My re
 
 - **[AirBorder](https://github.com/MayFairMI6/AirBorder)** — Swift/iOS layover and airport-transfer prototype. Explicit data provenance, uncertain travel times, seeded decision simulation, routing, and a Worker proxy. The README separates implemented behavior from field and device validation.
 - **[SkyBridge](https://github.com/MayFairMI6/skybridge-network-recovery-optimizer)** — synthetic airline-recovery simulation with a Jenkins–Docker–Terraform pipeline. The prediction service uses authored coefficients; the optional training script is a scaffold, not a validated forecasting model.
+- **[SpendSwift](https://github.com/MayFairMI6/tp)** — team Java budgeting project with a currency-conversion extension repaired in this personal fork. My [original contribution record](https://github.com/MayFairMI6/tp/blob/master/docs/team/ppp-2.md) covers budget management, category views, tests, and design documentation; the README distinguishes the later repair from the course submission.
 - **[Flask DevOps Lab](https://github.com/MayFairMI6/flask-devops-lab)** — a small HTTP service and container-packaging exercise, with version and runtime diagnostics.
-- **[SpendSwift](https://github.com/MayFairMI6/tp)** — team Java budgeting project. My [contribution record](https://github.com/MayFairMI6/tp/blob/master/docs/team/ppp-2.md) covers budget management, category views, tests, and design documentation; it also distinguishes the unintegrated currency extension.
 
 ## Current local work
 
