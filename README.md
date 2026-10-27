@@ -4,9 +4,9 @@ I’m a Computer Science undergraduate at the University of South Florida. My re
 
 ## Selected public work
 
+- **[Cryo-EM model-building benchmark](https://github.com/MayFairMI6/mica-2026-cryoem-benchmark)** — benchmark of MICA against ModelAngelo, EModelX(+AF), CryoAtom and EMProt on 24 cryo-EM maps first released in 2026. Case selection was fixed before any method ran; all 120 primary runs were scored with complex TM-score, Cα quality and sequence-match metrics and paired case-bootstrap intervals. Code, run records and the [Zenodo dataset](https://doi.org/10.5281/zenodo.23581358) are public.
 - **[AirBorder](https://github.com/MayFairMI6/AirBorder)** — Swift/iOS layover and airport-transfer prototype combining seeded Monte Carlo estimates, route selection, source freshness checks, and a Cloudflare Worker proxy.
 - **[SkyBridge](https://github.com/MayFairMI6/skybridge-network-recovery-optimizer)** — synthetic airline-recovery simulation with a Jenkins–Docker–Terraform deployment pipeline. Recovery policies use authored cost and disruption assumptions; a separate script provides a starting point for fitting a cancellation model.
-- **[SpendSwift](https://github.com/MayFairMI6/tp)** — team Java budgeting project with a currency-conversion extension repaired in this personal fork. My [original contribution record](https://github.com/MayFairMI6/tp/blob/master/docs/team/ppp-2.md) covers budget management, category views, tests, and design documentation; the README distinguishes the later repair from the course submission.
 - **[Flask DevOps Lab](https://github.com/MayFairMI6/flask-devops-lab)** — a small HTTP service and container-packaging exercise, with version and runtime diagnostics.
 
 ## Research studies and prototypes
